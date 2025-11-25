@@ -3,7 +3,6 @@ converts Kilograms → Pounds and Pounds → Kilograms
 
 # Example Output
 ```
-
 Enter your weight: 70
 Kilograms or Pounds? (K or L): K
 
